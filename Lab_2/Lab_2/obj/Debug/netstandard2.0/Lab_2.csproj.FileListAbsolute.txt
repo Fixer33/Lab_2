@@ -1,0 +1,15 @@
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\bin\Debug\netstandard2.0\Lab_2.deps.json
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\bin\Debug\netstandard2.0\Lab_2.dll
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\bin\Debug\netstandard2.0\Lab_2.pdb
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\Lab_2.csproj.AssemblyReference.cache
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\Lab_2.AssemblyInfoInputs.cache
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\Lab_2.AssemblyInfo.cs
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\Lab_2.csproj.CoreCompileInputs.cache
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\Lab_2.dll
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\refint\Lab_2.dll
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\Lab_2.pdb
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\ref\Lab_2.dll
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2\obj\Debug\netstandard2.0\App.xaml.g.cs

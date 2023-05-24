@@ -1,0 +1,3 @@
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2.Android\obj\Debug\50\MonoAndroid,Version=v5.0.AssemblyAttributes.cs
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2.Android\obj\Debug\50\build.props
+F:\Development\C# projects\Lab_2\Lab_2\Lab_2.Android\obj\Debug\50\adb.props

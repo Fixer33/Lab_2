@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab_2.MainPage">
+
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+
+        <!-- Header Label -->
+        <Label Text="Калькулятор времени между датами" FontSize="16" HorizontalOptions="Center" Margin="0,0,0,20"/>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
+            <Label Text="С" Margin="0,0,100,0"/>
+            <Label Text="По"/>
+        </StackLayout>
+        
+        <!-- Date Pickers -->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
+            <DatePicker x:Name="startDatePicker" Margin="0,0,10,0"/>
+            <DatePicker x:Name="endDatePicker"/>
+        </StackLayout>
+
+        <!-- Date Pickers -->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
+            <TimePicker x:Name="startTimePicker" Margin="0, 0, 25, 0"/>
+            <TimePicker x:Name="endTimePicker"/>
+        </StackLayout>
+
+        <!-- Button Layout -->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
+            <Button Text="Подсчитать" Clicked="CalculateClick" Margin="10,0"/>
+            <Button Text="Очистить" Clicked="ClearClick" Margin="10,0"/>
+        </StackLayout>
+
+        <!-- Result Label -->
+        <Label Text="123" x:Name="resultLabel" HorizontalOptions="Center" FontSize="14"/>
+
+    </StackLayout>
+
+</ContentPage>
